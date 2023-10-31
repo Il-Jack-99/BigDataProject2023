@@ -3,4 +3,4 @@ function_words = ["a", "about", "above", "according", "accordingly", "across", "
 
 punctuations_char = ["'", ".", ",", ";", ":", "!", "?", '"', "”", "“", "’", "‘", "-", "_", "{", "}", "[", "]", "(", ")", "*"]
 
-authors = ['Arthur Conan Doyle', 'Charles Dickens', 'Daniel Defoe', 'Edith Wharton', 'Jane Austen', 'Joseph Conrad', 'Lewis Carroll', 'Louisa May Alcott', 'Voltaire', 'William Shakespeare']
+authors = ['Bret Harte', 'Charles Dickens', 'Daniel Defoe', 'Edith Wharton', 'Jane Austen', 'Joseph Conrad', 'Lewis Carroll', 'Louisa May Alcott', 'Voltaire', 'William Shakespeare']
